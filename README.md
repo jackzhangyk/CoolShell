@@ -1,5 +1,7 @@
 
-- [浏览地址](https://jackzhangyk.github.io/CoolShell/coolshell.cn/index.html)
+- 抓取镜像命令 `wget --mirror https://coolshell.cn/`
+
+- [浏览镜像页面](https://jackzhangyk.github.io/CoolShell/coolshell.cn/index.html)
 
 ---
 
